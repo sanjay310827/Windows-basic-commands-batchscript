@@ -22,54 +22,40 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-Create a directory named "my-folder"
+<img width="1923" height="146" alt="image" src="https://github.com/user-attachments/assets/47af99c5-ba22-4877-962d-84cd36716453" />
+
 
 ## COMMAND AND OUTPUT
 
-Remove the directory "my-folder"
+<img width="1923" height="73" alt="image" src="https://github.com/user-attachments/assets/76d215bc-05d4-4248-ae02-ff502109fe2d" />
 
 ## COMMAND AND OUTPUT
 
-
-Create the file Rose.txt
-
-## COMMAND AND OUTPUT
-
-
-Create the file hello.txt using echo and redirection
+<img width="1923" height="420" alt="image" src="https://github.com/user-attachments/assets/4568b48d-de65-4bf4-87b6-4c84d1fb5e14" />
 
 ## COMMAND AND OUTPUT
 
-Copy the file hello.txt into the file hello1.txt
+<img width="1923" height="145" alt="image" src="https://github.com/user-attachments/assets/fe82b53a-f26b-44f9-b837-f87d99916570" />
+
 
 ## COMMAND AND OUTPUT
 
-Remove the file hello1.txt
+<img width="1923" height="168" alt="image" src="https://github.com/user-attachments/assets/e9e8a487-96c2-4305-9292-2a4eb8baad1e" />
+
 
 ## COMMAND AND OUTPUT
 
-List out the file hello1.txt in the current directory
+<img width="1923" height="270" alt="image" src="https://github.com/user-attachments/assets/8e632ed2-0693-444d-8ca4-d089ccd09c0e" />
+
 
 ## COMMAND AND OUTPUT
 
-List out all the associated file extensions 
-
-## COMMAND AND OUTPUT
-
-
-Compare the file hello.txt and rose.txt
-
-## COMMAND AND OUTPUT
-
-## Exercise 2: Advanced Batch Scripting
-Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
-
-
-
+<img width="1923" height="880" alt="image" src="https://github.com/user-attachments/assets/c105ea26-7c61-42ac-b807-128ea08e35b1" />
 
 
 ## OUTPUT
 
+<img width="1923" height="429" alt="image" src="https://github.com/user-attachments/assets/3fcfa341-b7d1-4ee4-84ef-269f4ac48fa4" />
 
 
 Create a batch file  on the desktop that checks whether a user-input number is odd or not. The script should:
@@ -84,18 +70,15 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 ## OUTPUT
 
-
+<img width="1923" height="231" alt="image" src="https://github.com/user-attachments/assets/d1939412-64eb-4b62-9216-ffdb366249a3" />
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
 
-
-
 ## OUTPUT
 
-
-
+<img width="1923" height="267" alt="image" src="https://github.com/user-attachments/assets/dc628ba3-9f08-4d7e-8679-0077be7bb746" />
 
 Write a batch script to check whether a file named sample.txt exists in the current directory. If the file exists, display the message sample.txt exists. Otherwise, display sample.txt does not exist. Pause the script at the end to view the result.
 
@@ -106,7 +89,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-
+<img width="1923" height="182" alt="image" src="https://github.com/user-attachments/assets/bc40ad38-f71a-4f44-86bd-64140ebdb2c9" />
 
 Write a batch script that displays a simple menu with three options:
 Say Hello – Displays the message Hello, World!
@@ -116,6 +99,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
+<img width="1923" height="405" alt="image" src="https://github.com/user-attachments/assets/4eaafc9b-fef1-4e84-a011-6c0120e28108" />
 
 
 
